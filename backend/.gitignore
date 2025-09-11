@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Credentials and sensitive files
+.env
+**/src/main/resources/credentials.json
+**/tokens/StoredCredential
